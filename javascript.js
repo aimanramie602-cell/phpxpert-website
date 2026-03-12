@@ -2,7 +2,7 @@
 const projectData = {
     1: {
         title: "Digital Brand Identity",
-        image: "assets/graphics.jpg",
+        image: "graphics.jpg",
         tags: ["Branding", "Graphics"]
     },
     2: {
@@ -12,7 +12,7 @@ const projectData = {
     },
     3: {
         title: "Designing the Future",
-        image: "assets/webdesign.jpg",
+        image: "webdesign.jpg",
         tags: ["Web Design", "UI/UX Design"]
     }
 };
